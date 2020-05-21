@@ -10,3 +10,4 @@ Creating a new branch is quick and simple.
 
 branch manager.
 
+当前分支test_branch
