@@ -1,4 +1,4 @@
-Git is a version control system.
+﻿Git is a version control system.
 Git is a free software distributed under the GPL.
 Hello Git.
 Git has a mutable index called stage.
@@ -10,7 +10,7 @@ Creating a new branch is quick and simple.
 
 branch manager.
 
-��֧
+分支
 
 master
 test_branch
